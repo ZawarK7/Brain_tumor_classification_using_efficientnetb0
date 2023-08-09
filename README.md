@@ -4,10 +4,12 @@
 Tumor Classification using EfficientNetB0
 
 
-Overview
+Overview:
+
 This GitHub repository contains the code and resources for a tumor classification project using the EfficientNetB0 architecture. The objective of this project is to accurately classify tumors into one of the four specified classes. The dataset used for training and evaluation was obtained from Kaggle and consists of labeled images representing different tumor types.
 
-Project Highlights
+Project Highlights:
+
 Utilizes the state-of-the-art EfficientNetB0 architecture for image classification tasks.
 Implements data preprocessing, augmentation, and model training pipelines.
 Achieves classification accuracy and precision across four tumor classes.
@@ -29,10 +31,11 @@ Additional packages listed in requirements.txt
 Getting Started
 Clone this repository: git clone https://github.com/your-username/tumor-classification.git
 Install required packages: pip install -r requirements.txt
-Follow the notebooks (data_preprocessing.ipynb, efficientnetb0_model.ipynb) to preprocess the data and train the model.
+Follow the notebooks (Brain_tumor_classification.ipynb) to preprocess the data and train the model.
 Use the inference.ipynb notebook for making predictions on new images.
 
 Acknowledgments:
+
 EfficientNet: Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ArXiv:1905.11946
 
 License:
