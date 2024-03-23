@@ -38,6 +38,5 @@ Acknowledgments:
 
 EfficientNet: Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ArXiv:1905.11946
 
-License:
-This project is licensed under the MIT License.
+
 
